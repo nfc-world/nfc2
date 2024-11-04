@@ -77,7 +77,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 </head>
 <body>
     <div class="container">
-        <img src="denislav.JPG" alt="Профилна снимка">
+        <img src="teri.jpg" alt="Профилна снимка">
         <h1>Добре дошли на моята страница!</h1>
         <p>Тук можете да намерите всички мои контакти.</p>
         
